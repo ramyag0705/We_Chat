@@ -1,0 +1,1 @@
+ D:\\Freelancer\\we_chat\\.dart_tool\\flutter_build\\6ba30b0294d0b19176339fbe7d60767f\\native_assets.yaml: 
