@@ -1,16 +1,17 @@
-# we_chat
+We Chat Application Using Flutter and Firebase
 
-A new Flutter project.
+Simple, Decent & Feature Rich Chatting Application.
 
-## Getting Started
+Features:
+1. Show only known users or contacts
+2. Real-time Messaging (With Firebase)
+3. Google Sign-In
+4. Adding Users using Email Id
+5. Simple User Profile (With Photo, About, Last-seen, Created-at)
+6. Message Read Status
+7. Profile Display of the user
+8. And much more...
 
-This project is a starting point for a Flutter application.
+Some Screenshots of the app:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
