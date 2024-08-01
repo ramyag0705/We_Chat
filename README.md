@@ -12,6 +12,6 @@ Features:
 7. Profile Display of the user
 8. And much more...
 
-Some Screenshots of the app:
+
 
 
